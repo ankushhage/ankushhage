@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ankushhage
 - 👀 I’m interested in HTML, CSS, JAVA SCRIPTS
 - 🌱 I’m currently learning HTML, CSS, JAVA SCRIPTS
+- 🌱 I’m currently learning DevOps, GitHub
 - 💞️ I’m looking to collaborate on WEB DEVELOPEMENT
 - 📫 How to reach me Mob NO: +91 9665997613 Email: ankushhage2192@gmail.com
 
